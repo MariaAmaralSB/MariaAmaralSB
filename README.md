@@ -5,6 +5,8 @@
 
 ![Maria Amaral GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaAmaralSB&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAmaralSB)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias do meu domínio
 
 <div style="display: inline_block"><br/>
